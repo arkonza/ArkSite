@@ -1,0 +1,28 @@
+@import 'variables';
+
+#site-navbar {
+  background-color: $color-primary;
+  color: $color-text-primary;
+  font-weight: bold;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navItems {
+  display: flex;
+  text-align: right;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: .3rem 1.0875rem;
+}
+
+.navItem {
+  background-color: $color-primary;
+  color: $color-text-primary;
+}
+
+.logo {
+  width: 15rem;
+}

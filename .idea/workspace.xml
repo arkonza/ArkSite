@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="483c69d6-452b-4d9c-bbb4-cb9a23767411" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YmjSvRNY7AHadMMVHaVhCldtOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/icons" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Ryan\Coding\Learning\gatsby-bootcamp-hello-world\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Users\Ryan\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\193.6911.28\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\Coding\Projects\weloveboobssite\static\icons" />
+      <recent name="C:\Users\Ryan\Coding\Projects\weloveboobssite\src\images" />
+      <recent name="C:\Users\Ryan\Coding\Projects\weloveboobssite\src\styles" />
+      <recent name="C:\Users\Ryan\Coding\Projects\weloveboobssite\src\components" />
+      <recent name="C:\Users\Ryan\Coding\Projects\weloveboobssite\static\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483c69d6-452b-4d9c-bbb4-cb9a23767411" name="Default Changelist" comment="" />
+      <created>1583554666348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583554666348</updated>
+      <workItem from="1583554667991" duration="13823000" />
+      <workItem from="1583584017529" duration="24328000" />
+      <workItem from="1584800857750" duration="1300000" />
+      <workItem from="1584817199863" duration="44735000" />
+      <workItem from="1584971759489" duration="11601000" />
+      <workItem from="1585064178449" duration="10925000" />
+      <workItem from="1585237987911" duration="9372000" />
+      <workItem from="1586800651585" duration="2532000" />
+      <workItem from="1587843029024" duration="1873000" />
+      <workItem from="1588092588756" duration="2688000" />
+      <workItem from="1589469466351" duration="18000" />
+      <workItem from="1589721486716" duration="5094000" />
+      <workItem from="1589733352356" duration="1238000" />
+    </task>
+    <task id="LOCAL-00001" summary="Favicon update and bootstrap include">
+      <created>1584826257922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584826257922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="begin header and navbar changes">
+      <created>1584826338331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584826338331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updates for bootstrap">
+      <created>1584876825619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584876825619</updated>
+    </task>
+    <task id="LOCAL-00004" summary="layout progress">
+      <created>1584888949061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584888949061</updated>
+    </task>
+    <task id="LOCAL-00005" summary="layout progress">
+      <created>1584893857920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584893857920</updated>
+    </task>
+    <task id="LOCAL-00006" summary="layout progress">
+      <created>1584902615924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584902615924</updated>
+    </task>
+    <task id="LOCAL-00007" summary="layout progress">
+      <created>1584904081859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584904081859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="layout progress">
+      <created>1584909230271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584909230271</updated>
+    </task>
+    <task id="LOCAL-00009" summary="layout progress">
+      <created>1584909561560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584909561560</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add gitlab-ci file">
+      <created>1584910581057</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584910581057</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add gitlab-ci file">
+      <created>1584910679079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584910679079</updated>
+    </task>
+    <task id="LOCAL-00012" summary="link change for demo">
+      <created>1584911625221</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584911625221</updated>
+    </task>
+    <task id="LOCAL-00013" summary="link change for demo">
+      <created>1584911877957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584911877957</updated>
+    </task>
+    <task id="LOCAL-00014" summary="image test">
+      <created>1584912403068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584912403068</updated>
+    </task>
+    <task id="LOCAL-00015" summary="link update fpr demo">
+      <created>1584912546891</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584912546891</updated>
+    </task>
+    <task id="LOCAL-00016" summary="image restore">
+      <created>1584913055983</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584913055983</updated>
+    </task>
+    <task id="LOCAL-00017" summary="image restore">
+      <created>1584913415452</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584913415452</updated>
+    </task>
+    <task id="LOCAL-00018" summary="image progress">
+      <created>1584978975983</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1584978975983</updated>
+    </task>
+    <task id="LOCAL-00019" summary="image progress">
+      <created>1584979938131</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584979938131</updated>
+    </task>
+    <task id="LOCAL-00020" summary="url update">
+      <created>1584980654508</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584980654508</updated>
+    </task>
+    <task id="LOCAL-00021" summary="npm update">
+      <created>1584981806022</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584981806022</updated>
+    </task>
+    <task id="LOCAL-00022" summary="image adjustments">
+      <created>1584989139647</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584989139647</updated>
+    </task>
+    <task id="LOCAL-00023" summary="image adjustments">
+      <created>1584993112362</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1584993112362</updated>
+    </task>
+    <task id="LOCAL-00024" summary="social updates">
+      <created>1585075467172</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585075467172</updated>
+    </task>
+    <task id="LOCAL-00025" summary="social and team update">
+      <created>1585085382992</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585085382992</updated>
+    </task>
+    <task id="LOCAL-00026" summary="broadcast banner">
+      <created>1585594025452</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585594025453</updated>
+    </task>
+    <task id="LOCAL-00027" summary="convert to template">
+      <created>1589734057575</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1589734057575</updated>
+    </task>
+    <task id="LOCAL-00028" summary="convert to template">
+      <created>1589734522174</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589734522174</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Favicon update and bootstrap include" />
+    <MESSAGE value="begin header and navbar changes" />
+    <MESSAGE value="updates for bootstrap" />
+    <MESSAGE value="layout progress" />
+    <MESSAGE value="add gitlab-ci file" />
+    <MESSAGE value="link change for demo" />
+    <MESSAGE value="image test" />
+    <MESSAGE value="link update fpr demo" />
+    <MESSAGE value="image restore" />
+    <MESSAGE value="image progress" />
+    <MESSAGE value="url update" />
+    <MESSAGE value="npm update" />
+    <MESSAGE value="image adjustments" />
+    <MESSAGE value="social updates" />
+    <MESSAGE value="social and team update" />
+    <MESSAGE value="broadcast banner" />
+    <MESSAGE value="convert to template" />
+    <option name="LAST_COMMIT_MESSAGE" value="convert to template" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Plugins" timestamp="1583584008240">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1583584008240" />
+    <state x="1179" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584910143997">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1179" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584910143997" />
+    <state x="585" y="134" key="CommitChangelistDialog2" timestamp="1589734521551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="585" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585594024803" />
+    <state x="585" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/3840.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1585085382377" />
+    <state x="585" y="134" key="CommitChangelistDialog2/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589734521551" />
+    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1589724812150">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585594143418" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1589469479286" />
+    <state x="1220" y="295" key="FileChooserDialogImpl/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589724812150" />
+    <state x="745" y="242" key="RollbackChangesDialog" timestamp="1589730967461">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="242" key="RollbackChangesDialog/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589730967461" />
+    <state x="922" y="186" key="SettingsEditor" timestamp="1583555157216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="922" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1583555157216" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1589734524230">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585594027141" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/3840.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1585085385195" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589734524230" />
+    <state x="656" y="272" width="607" height="536" key="find.popup" timestamp="1589733890837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="272" width="607" height="536" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584884054559" />
+    <state x="656" y="272" width="607" height="536" key="find.popup/1920.0.1920.1080/3840.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1584981243264" />
+    <state x="656" y="272" width="607" height="536" key="find.popup/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589733890837" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589734448865">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584902825638" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/3840.0.1680.1050/0.0.1920.1080@0.0.1920.1080" timestamp="1583876585241" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/1920.7.1920.1080/3840.0.1618.1050/0.0.1920.1080/1920.-1073.1280.720@0.0.1920.1080" timestamp="1589734448865" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/blog.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

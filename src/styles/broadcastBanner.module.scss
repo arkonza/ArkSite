@@ -1,0 +1,11 @@
+@import 'variables';
+
+.alert {
+  background: $color-primary;
+  color: $color-text-primary;
+}
+
+.link {
+  text-decoration: none;
+  color: $color-text-primary;
+}
